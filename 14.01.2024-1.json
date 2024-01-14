@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Santos",
+    "age": 15,
+    "address": {
+        "street": "Anderson Track",
+        "city": "West Heather",
+        "state": "Michigan",
+        "zip": "56100"
+    },
+    "contact": {
+        "phone": "001-645-379-3928x635",
+        "servicePhone": "800600087"
+    },
+    "birthday": "2010-27-08",
+    "ip": "134.136.200.140",
+    "foo": "bar",
+    "profile": {
+        "about": "In whatever democratic discuss feeling rest.\nWhite the foreign onto law charge another three. Certainly ok stage.",
+        "bio": "Through hear throw back. Economy message force several we move.\nCommercial military job performance develop for half. Finally physical billion right vote interest."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
