@@ -1,0 +1,25 @@
+{
+    "name": "Alex Sanchez",
+    "age": 69,
+    "address": {
+        "street": "Johns Track",
+        "city": "East Melissaberg",
+        "state": "California",
+        "zip": "34943"
+    },
+    "contact": {
+        "phone": "806.973.6640",
+        "servicePhone": "800212951"
+    },
+    "birthday": "1956-12-07",
+    "ip": "200.3.68.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Should third outside yeah election view. Edge remain film save small politics result debate. Him significant character leg.",
+        "bio": "Others main year everything. Run politics system tree."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
