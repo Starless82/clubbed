@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Rogers",
+    "age": 92,
+    "address": {
+        "street": "Mckay Rue",
+        "city": "Kaisermouth",
+        "state": "South Carolina",
+        "zip": "45742"
+    },
+    "contact": {
+        "phone": "253.506.9396",
+        "servicePhone": "800079101"
+    },
+    "birthday": "1933-17-11",
+    "ip": "34.88.44.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Short risk the. Would stand me author year perform not. House adult six week bit whatever pattern despite.",
+        "bio": "Move one may ahead training success walk. Data science mouth compare.\nSuch particularly within operation dog Congress often name. Study against room hospital."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
