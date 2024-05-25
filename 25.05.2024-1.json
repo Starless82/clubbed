@@ -1,0 +1,25 @@
+{
+    "name": "Karen Huff",
+    "age": 90,
+    "address": {
+        "street": "Luis Inlet",
+        "city": "Jaytown",
+        "state": "Hawaii",
+        "zip": "73031"
+    },
+    "contact": {
+        "phone": "931.822.6940x171",
+        "servicePhone": "800803771"
+    },
+    "birthday": "1935-06-11",
+    "ip": "166.202.15.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare culture kitchen will evening. Assume ever eight impact fill edge. First positive must study level dog.\nShe check image similar marriage unit.",
+        "bio": "Order meet price could. According develop expect well a. Plant detail guy start way population sell. Car range financial evidence open."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
