@@ -1,0 +1,25 @@
+{
+    "name": "Jack James",
+    "age": 41,
+    "address": {
+        "street": "Lawson Grove",
+        "city": "Kinghaven",
+        "state": "Utah",
+        "zip": "30350"
+    },
+    "contact": {
+        "phone": "(657)607-4874x261",
+        "servicePhone": "800848978"
+    },
+    "birthday": "1984-11-01",
+    "ip": "183.169.247.42",
+    "foo": "bar",
+    "profile": {
+        "about": "National eat white much. Woman eight surface eye current my serious. Trouble small do environmental.",
+        "bio": "Fall plant everything. Answer bed person read tree natural. Administration chance national.\nFrom quite growth ready.\nTown edge center no get. Trip election possible truth plant politics shake."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
