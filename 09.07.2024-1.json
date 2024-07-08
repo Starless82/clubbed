@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Clark",
+    "age": 20,
+    "address": {
+        "street": "Angela Plaza",
+        "city": "Jacobstad",
+        "state": "California",
+        "zip": "95544"
+    },
+    "contact": {
+        "phone": "+1-327-743-8818x12551",
+        "servicePhone": "800117249"
+    },
+    "birthday": "2005-18-04",
+    "ip": "83.24.157.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice will relationship agency. Game deep believe city crime score mission. Man choose public suggest. Believe short often its executive now mention.",
+        "bio": "Nation let pattern somebody turn character. Southern follow play kitchen add operation give population.\nPicture laugh either base team degree professional. Responsibility list audience."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
