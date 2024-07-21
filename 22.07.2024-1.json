@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Thomas",
+    "age": 6,
+    "address": {
+        "street": "Morgan Way",
+        "city": "Grantside",
+        "state": "South Dakota",
+        "zip": "45878"
+    },
+    "contact": {
+        "phone": "219-658-5334x48888",
+        "servicePhone": "800724572"
+    },
+    "birthday": "2019-05-06",
+    "ip": "84.94.101.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Wife people bag morning.\nPattern center color herself.\nWeight lawyer letter training important might might. Accept mission probably us so former state. Energy college serve type perform much return.",
+        "bio": "Street west cost open Mr. Might study everybody see character food identify. Tend never whom respond."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
