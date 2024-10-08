@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Bowman",
+    "age": 38,
+    "address": {
+        "street": "Deborah Land",
+        "city": "Darrylstad",
+        "state": "Minnesota",
+        "zip": "63556"
+    },
+    "contact": {
+        "phone": "651-219-4642",
+        "servicePhone": "800291087"
+    },
+    "birthday": "1987-28-12",
+    "ip": "32.217.166.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Near example walk business trial rise enter upon. Decade research likely program left visit cup.",
+        "bio": "Fall remain town song least. Democrat ball magazine up make.\nAuthority generation forward blood debate. Investment already onto chair save able. Set discuss whatever modern individual."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
