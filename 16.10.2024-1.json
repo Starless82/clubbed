@@ -1,0 +1,25 @@
+{
+    "name": "Brian White",
+    "age": 83,
+    "address": {
+        "street": "Cooper Roads",
+        "city": "Fergusonhaven",
+        "state": "Connecticut",
+        "zip": "57016"
+    },
+    "contact": {
+        "phone": "001-302-857-6028",
+        "servicePhone": "800004453"
+    },
+    "birthday": "1942-18-06",
+    "ip": "215.127.214.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote popular rate live. Race parent each either performance. Employee pick if between development as.\nMarriage high site international. Guess economy teacher color.",
+        "bio": "Church whether media far Republican. Camera call tree late begin house. Including make among do deep right space in."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
