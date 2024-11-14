@@ -1,0 +1,25 @@
+{
+    "name": "Mark Schroeder",
+    "age": 116,
+    "address": {
+        "street": "Amanda Forge",
+        "city": "Garrisonbury",
+        "state": "Indiana",
+        "zip": "62854"
+    },
+    "contact": {
+        "phone": "373.280.6070",
+        "servicePhone": "800603607"
+    },
+    "birthday": "1909-17-02",
+    "ip": "87.206.255.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother age several individual low.\nLong good join nearly public baby local. Either offer newspaper chair society.",
+        "bio": "Our back kitchen door respond already. Get property become pattern.\nArticle them fight food until. Lose station human others season house prove."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
