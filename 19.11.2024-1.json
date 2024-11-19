@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Malone",
+    "age": 59,
+    "address": {
+        "street": "Diane Village",
+        "city": "Bradshawchester",
+        "state": "Utah",
+        "zip": "25602"
+    },
+    "contact": {
+        "phone": "001-860-880-4514x235",
+        "servicePhone": "800480324"
+    },
+    "birthday": "1966-22-09",
+    "ip": "181.225.112.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation certain fight seven compare less soldier. Subject ten material also role baby manager capital. Class officer nation million.\nProduce boy middle center surface guess culture.",
+        "bio": "Quickly public art half agree sing man. Us offer hear easy today focus.\nHer citizen follow degree food. Stop food may decade charge. Picture including member friend town heart deal sometimes."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
