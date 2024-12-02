@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hobbs",
+    "age": 112,
+    "address": {
+        "street": "Wilson Rapids",
+        "city": "Port Victoriachester",
+        "state": "Idaho",
+        "zip": "09886"
+    },
+    "contact": {
+        "phone": "201.494.1711x510",
+        "servicePhone": "800160553"
+    },
+    "birthday": "1913-30-08",
+    "ip": "176.216.42.243",
+    "foo": "bar",
+    "profile": {
+        "about": "It serve six able security off. Never affect sport course. Computer share window energy. Usually factor anyone next bank.",
+        "bio": "Offer draw tonight until without. Career others suggest size successful. This yourself night what in.\nAccount cost prevent movie some. Week happy outside big student growth."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
