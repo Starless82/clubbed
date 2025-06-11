@@ -1,0 +1,25 @@
+{
+    "name": "Laura Waters",
+    "age": 30,
+    "address": {
+        "street": "Ochoa Ford",
+        "city": "East Alex",
+        "state": "Nebraska",
+        "zip": "73320"
+    },
+    "contact": {
+        "phone": "(498)631-3061x04847",
+        "servicePhone": "800016487"
+    },
+    "birthday": "1995-21-09",
+    "ip": "195.58.8.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Man employee catch girl quality parent child. Develop of cut reach by since. Someone way leave home west.",
+        "bio": "Theory theory rest. Play environment girl.\nTerm still anything receive nearly performance wait. Every population room why.\nThank letter structure. Learn seven light inside our customer local."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
