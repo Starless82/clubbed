@@ -1,0 +1,25 @@
+{
+    "name": "William Diaz",
+    "age": 65,
+    "address": {
+        "street": "Dixon Lights",
+        "city": "North Michellefurt",
+        "state": "Indiana",
+        "zip": "96309"
+    },
+    "contact": {
+        "phone": "495-981-0645",
+        "servicePhone": "800886257"
+    },
+    "birthday": "1960-24-07",
+    "ip": "183.96.135.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Find defense easy why movie senior. Brother question responsibility idea. Statement skill actually win animal.\nCustomer none subject school how guy these. Executive since national civil check.",
+        "bio": "Three simple capital draw new blue. Unit soldier building white third benefit suffer. Bank region small not every property follow.\nRise heart skill stock individual leader yet."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
