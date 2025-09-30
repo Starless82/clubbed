@@ -1,0 +1,25 @@
+{
+    "name": "Monique Atkinson",
+    "age": 36,
+    "address": {
+        "street": "Fitzgerald Roads",
+        "city": "Lake Kevinview",
+        "state": "Arkansas",
+        "zip": "14066"
+    },
+    "contact": {
+        "phone": "(534)878-9022x471",
+        "servicePhone": "800312637"
+    },
+    "birthday": "1989-14-04",
+    "ip": "133.78.196.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Success read agency apply high heart. Back series professional value mission husband.",
+        "bio": "Soldier story no often. Growth law half day guy moment home. Glass store general mother body candidate nation."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
