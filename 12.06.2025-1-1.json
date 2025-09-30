@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Davis",
+    "age": 77,
+    "address": {
+        "street": "Amy Parkways",
+        "city": "Amandastad",
+        "state": "Maine",
+        "zip": "66598"
+    },
+    "contact": {
+        "phone": "495.316.5413x663",
+        "servicePhone": "800420360"
+    },
+    "birthday": "1948-26-01",
+    "ip": "119.7.146.208",
+    "foo": "bar",
+    "profile": {
+        "about": "All law box similar. So power church opportunity. Author simply almost.\nTeach day political human. Interesting bit discuss consumer true.",
+        "bio": "Meet painting finish. Total process radio political land decade fish.\nParticularly development population to campaign specific college still. Near response build. Worry else this team."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

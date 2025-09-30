@@ -1,0 +1,25 @@
+{
+    "name": "Robert Richardson",
+    "age": 92,
+    "address": {
+        "street": "Richardson Green",
+        "city": "Kingport",
+        "state": "California",
+        "zip": "97733"
+    },
+    "contact": {
+        "phone": "369.229.1859x2418",
+        "servicePhone": "800733681"
+    },
+    "birthday": "1933-28-12",
+    "ip": "41.174.245.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular make particular course Mrs. Help garden age buy follow major. Leader star mission involve most laugh. Marriage some south should sea rate.\nRate return according drug really wind.",
+        "bio": "A woman example standard.\nThought now leader notice there side political that. Event realize chance activity important wonder."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

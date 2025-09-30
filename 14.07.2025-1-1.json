@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Murphy",
+    "age": 115,
+    "address": {
+        "street": "Freeman Rest",
+        "city": "West Steven",
+        "state": "Delaware",
+        "zip": "85213"
+    },
+    "contact": {
+        "phone": "641-231-2407",
+        "servicePhone": "800018142"
+    },
+    "birthday": "1910-31-12",
+    "ip": "21.23.131.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow time fund card really.\nPm almost thank name glass decision. Bit before pay make teacher thus. Include remain make tree item.",
+        "bio": "See boy hear knowledge present reach fight. School think concern they different method should. Song worker image rather.\nWest with training local rate soldier free piece. Final leg quickly magazine."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
