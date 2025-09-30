@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Reese",
+    "age": 13,
+    "address": {
+        "street": "Williams Radial",
+        "city": "Hayestown",
+        "state": "Ohio",
+        "zip": "92534"
+    },
+    "contact": {
+        "phone": "574-276-5799",
+        "servicePhone": "800630233"
+    },
+    "birthday": "2012-08-10",
+    "ip": "158.64.232.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Door here Democrat commercial new approach amount. Sell stop value image try. Country force truth son necessary team century coach.",
+        "bio": "Conference rate choice candidate leave material just miss. Child participant magazine cup.\nAround should condition land much kitchen recognize coach. Article without turn."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
