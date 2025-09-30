@@ -1,0 +1,25 @@
+{
+    "name": "Michael Evans",
+    "age": 47,
+    "address": {
+        "street": "Penny Corners",
+        "city": "Olsontown",
+        "state": "Arkansas",
+        "zip": "98972"
+    },
+    "contact": {
+        "phone": "927.312.0010",
+        "servicePhone": "800336953"
+    },
+    "birthday": "1978-27-01",
+    "ip": "55.113.165.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Public Democrat lose give. Hold back operation couple party commercial worker. Short determine game mean ok require out.",
+        "bio": "Wear you film to run fall significant. Whose company account him. Everything later others. Act miss grow free arm economic."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
