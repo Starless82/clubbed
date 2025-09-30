@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Kim",
+    "age": 93,
+    "address": {
+        "street": "Owens Spurs",
+        "city": "East Anthony",
+        "state": "Wisconsin",
+        "zip": "50742"
+    },
+    "contact": {
+        "phone": "+1-368-991-0649",
+        "servicePhone": "800112148"
+    },
+    "birthday": "1932-07-02",
+    "ip": "113.108.224.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Year few just community themselves seem.\nWho fire in account laugh smile home. Them spring always project. Sort speak send huge across.",
+        "bio": "Right also senior let large action. Street sound skill push ball development. Tell light fact mission."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

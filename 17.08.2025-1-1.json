@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Hansen",
+    "age": 21,
+    "address": {
+        "street": "Ann Brooks",
+        "city": "North Kevin",
+        "state": "Arkansas",
+        "zip": "99160"
+    },
+    "contact": {
+        "phone": "+1-328-772-9618x073",
+        "servicePhone": "800783188"
+    },
+    "birthday": "2004-19-12",
+    "ip": "7.128.163.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover staff admit admit politics available down major. Commercial have performance budget. Staff direction girl arrive.",
+        "bio": "Information sell sure sea item rest remember. Policy clear upon house personal hour. Big us trial argue ok.\nClose kind one beautiful discover total pay himself. Air seek character many professor."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Webster",
+    "age": 88,
+    "address": {
+        "street": "Stevenson Shores",
+        "city": "Blackport",
+        "state": "Tennessee",
+        "zip": "40096"
+    },
+    "contact": {
+        "phone": "001-841-500-4526x07817",
+        "servicePhone": "800795446"
+    },
+    "birthday": "1937-22-02",
+    "ip": "72.166.140.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Tough whom our former plant another necessary. Peace father without believe product mind factor space.\nPopular century single product within technology. Movie someone ground window between.",
+        "bio": "Rest company nature plant eight. Education world challenge better resource.\nAgainst against role relationship its writer often. Offer tax only we share. Really since find dinner fear about."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

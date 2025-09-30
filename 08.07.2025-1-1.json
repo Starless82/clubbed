@@ -1,0 +1,25 @@
+{
+    "name": "Austin Waller",
+    "age": 86,
+    "address": {
+        "street": "Matthew Port",
+        "city": "Markchester",
+        "state": "Nebraska",
+        "zip": "68024"
+    },
+    "contact": {
+        "phone": "832-935-0016x509",
+        "servicePhone": "800091339"
+    },
+    "birthday": "1939-15-10",
+    "ip": "58.90.219.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Would church perform federal minute. Early institution dark economy even huge. Bad today generation bag station one.\nField black beyond our during. Stand although almost. Focus work make sit.",
+        "bio": "Tonight general purpose baby power might. Adult participant safe baby.\nPublic serious condition. Entire drug international trouble crime chair.\nLive push project ok. Involve religious return drug."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

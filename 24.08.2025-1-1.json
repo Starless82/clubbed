@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Marks",
+    "age": 26,
+    "address": {
+        "street": "Shannon Fort",
+        "city": "Youngchester",
+        "state": "Michigan",
+        "zip": "54391"
+    },
+    "contact": {
+        "phone": "740-768-7869",
+        "servicePhone": "800758371"
+    },
+    "birthday": "1999-07-04",
+    "ip": "98.140.96.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh note field last beat response data. Fact over American yourself away response fast. Get choice because member process clear.\nCarry police result according. Middle nor environment better.",
+        "bio": "Senior force machine benefit section expert oil. Include budget prevent rest edge receive. Lead measure reflect sense help bag reflect design."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
