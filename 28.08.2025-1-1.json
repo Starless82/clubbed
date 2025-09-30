@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Greer",
+    "age": 24,
+    "address": {
+        "street": "Salinas Locks",
+        "city": "New Robertside",
+        "state": "North Dakota",
+        "zip": "12273"
+    },
+    "contact": {
+        "phone": "+1-252-537-2840",
+        "servicePhone": "800334848"
+    },
+    "birthday": "2001-30-04",
+    "ip": "150.252.176.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel south here responsibility any wind player just. Opportunity entire surface prevent direction. Notice forget commercial news need six education different. Remember grow security eat million.",
+        "bio": "Popular behavior step about remain. Wall myself Democrat here interview. Partner fly final door first."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
