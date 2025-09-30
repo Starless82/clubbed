@@ -1,0 +1,25 @@
+{
+    "name": "Mary Ramirez",
+    "age": 111,
+    "address": {
+        "street": "Johnson Plain",
+        "city": "Michelleside",
+        "state": "Utah",
+        "zip": "94616"
+    },
+    "contact": {
+        "phone": "+1-793-937-9436x79666",
+        "servicePhone": "800085851"
+    },
+    "birthday": "1914-05-10",
+    "ip": "48.4.113.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Serve strong name color. Also development goal fly week example style. Response commercial tell. Sound probably talk old.",
+        "bio": "Remember today say close. Soldier sing choose true deep response page."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
